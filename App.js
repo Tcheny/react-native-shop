@@ -13,7 +13,7 @@ export default class App extends React.Component {
       <Header
           leftComponent={{ icon: 'menu', color: '#fff' }}
           centerComponent={{ text: 'CLOSETS', style: { color: '#fff' } }}
-          rightComponent={{ icon: 'home', color: '#fff' }}
+          rightComponent={{ icon: 'shopping-cart', color: '#fff' }}
           outerContainerStyles={{ backgroundColor: '#000' }}
       />
         <Image
